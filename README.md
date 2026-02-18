@@ -62,6 +62,6 @@ The project covers the following technical pillars:
 4.  **Launch the Notebook:**
     Open `master_ml_project.ipynb` in VS Code or run `jupyter notebook` in your terminal.
 
-## Author
+## Created by 
 **Rooney Nofal**
 *AI & Data Science Student 
